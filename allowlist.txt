@@ -21,6 +21,7 @@
 @@||fireoscaptiveportal.com^$important
 @@||flingo.tv^$important
 @@||footprint.net^$important
+@@||github.com^$important
 @@||global.edge.bamgrid.com^$important
 @@||google*.*^$important
 @@||gstatic.com^$important
