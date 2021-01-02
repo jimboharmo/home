@@ -2,12 +2,14 @@
 @@||adcolony.com^$important
 @@||adguard.com^$important
 @@||akadns.net^$important
+@@||akamaihd.net^$important
 @@||amazon*.*^$important
 @@||amazonalexa.com^$important
 @@||ampproject.org^$important
 @@||apple.com^$important
 @@||applovin.com^$important
 @@||audible*.*^$important
+@@||bitdefender.net^$important
 @@||boulanger.com^$important
 @@||cdn.cookielaw.org^$important
 @@||conviva.com^$important
@@ -26,6 +28,7 @@
 @@||google*.*^$important
 @@||gstatic.com^$important
 @@||king.com^$important
+@@||kochava.com^$important
 @@||live.com^$important
 @@||mcafee.com^$important
 @@||microsoft.*^$important
