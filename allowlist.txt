@@ -3,7 +3,7 @@
 @@||adcolony.com^$important
 @@||adguard.com^$important
 @@||aka*.net^$important
-@@||amazon*.*^$important
+@@||*amazon*.*^$important
 @@||ampproject.org^$important
 @@||apple.com^$important
 @@||applovin.com^$important
