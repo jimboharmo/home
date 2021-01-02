@@ -24,6 +24,7 @@
 @@||epicgames.com^$important
 @@||facebook.*^$important
 @@||fanart.tv^$important
+@@||feliratok.info^$important
 @@||fireoscaptiveportal.com^$important
 @@||flingo.tv^$important
 @@||footprint.net^$important
@@ -35,6 +36,7 @@
 @@||gravatar.com^$important
 @@||gstatic.com^$important
 @@||hulu.com^$important
+@@||in-addr.arpa^$important
 @@||king.com^$important
 @@||kochava.com^$important
 @@||letsencrypt.org^$important
