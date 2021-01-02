@@ -61,7 +61,7 @@
 @@||qnap.com^$important
 @@||permutive.com^$important
 @@||playstation.*^$important
-@@||plex.tv^$important
+@@||plex.*^$important
 @@||reddit*.com^$important
 @@||s-afdentry.us^$important
 @@||samba.tv^$important
